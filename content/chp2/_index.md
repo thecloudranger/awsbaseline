@@ -1,9 +1,9 @@
 +++
-title = "Chp 2. My First AWS Account"
+title = "My First AWS Account"
 date = 2020-06-13T05:37:25+08:00
 weight = 2
 chapter = true
-pre = "<b>Chp 2. My First AWS Account </b>"
+pre = "<b>Chp 2. </b>"
 +++
 
 ### Chp 2. My First AWS Account
