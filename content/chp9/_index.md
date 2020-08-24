@@ -1,14 +1,13 @@
 +++
-title = "Foreground"
+title = "Improving End-user Experience"
 date = 2020-06-13T05:37:25+08:00
-weight = 1
+weight = 9
 chapter = true
-pre = "<b>Chp 1. </b>"
+pre = "<b>Chp 9. </b>"
 +++
 
-### Chapter 1
+### Chapter 9
 
-# Foreground
+# Improving End-User Experience
 
-Meet Octank - the simple, customer-obsessesed, online marketplace startup
-
+As traffic increases, Octank's simple web application is starting to see performance degradations. Help them consider what to do to help retain their recurring customers as they work to hit their first 1MAU!

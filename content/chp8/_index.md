@@ -1,13 +1,14 @@
 +++
-title = "Improving End-user Experience"
+title = "Well-Archtected Framework"
 date = 2020-06-13T05:37:25+08:00
-weight = 9
+weight = 8
 chapter = true
-pre = "<b>Chp 9. </b>"
+pre = "<b>Chp 8. </b>"
 +++
 
-### Chapter 9
+### Chapter 8
 
-# Improving End-User Experience
+# Well-Architected Framework
 
-As traffic increases, Octank's simple web application is starting to see performance degradations. Help them consider what to do to help retain their recurring customers as they work to hit their first 1MAU!
+Octank has launched their first production workload!
+Where should they go from here? Help Octank understand how to assess their architecture
