@@ -6,20 +6,31 @@ weight = 0
 
 # AWS Baseline
 
-This site's content is designed to be consumed by large number of AWS customers in a self-service manner in order to have their AWS workload fulfill the core best practices that are common to a wide variety of workloads.
+### How to use AWS Baseline
 
-The content is served as a guideline and not as an assurance. Baseline, given the definition below, may vary depending on the state of the workload. While the content in this site attempts to cover the most common best practices, do engage your account team for further advices of your specific workload.
+AWS Baseline is designed as a simple, self-serviced guide for AWS customers.
 
-## Definition
+The site content contains commonly-used **design patterns**, **quickstart tutorials** and **additional reading materials** published in other AWS content platforms.  
 
-**baseline** *noun*
+We recommend using AWS Baseline as a starting point for getting started before diving deep into other learning materials published by AWS. 
 
-/ˈbeɪslaɪn/
 
-[usually singular]
+_Disclaimer_: The content in Baseline is intended to serve as a guideline and not as an assurance. While the content in this site attempts to cover the most common best practices, do engage your AWS account team for specific advice for your account. 
 
-*(technology)* a line or measurement that is used as a starting point when comparing facts.
+### Definition
 
-![seabaseline](img/sealevelbaseline.png)
+**baseline** 
+	*noun* 
+	/ˈbeɪslaɪn/
+
+*(technology)* an imaginary line used as a starting point for making comparisons.
+
+<!-- ![seabaseline](img/sealevelbaseline.png)
 
 (credit: researchgate.net)
+ -->
+
+### How to Contribute 
+
+We are actively updating content for AWS Baseline based on customer feedback. Feel free to submit Issues or Pull Requests to the working repo: [here](https://github.com/czhc/awsbaseline/pulls)
+
