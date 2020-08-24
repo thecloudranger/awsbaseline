@@ -6,7 +6,9 @@ chapter = true
 pre = "<b>Chp 3. </b>"
 +++
 
-### Chp 3: Getting Started in AWS
+### Chapter 3b: 
 
-# In this chapter, we will deploy a simple web application in AWS. 
+# Getting Started in AWS
+
+In this chapter, we will deploy a simple web application in AWS. 
 

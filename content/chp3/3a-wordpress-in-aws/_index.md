@@ -4,18 +4,22 @@ date =  2020-06-13T05:37:54+08:00
 weight = 1
 +++
 
+### Deploying a Wordpress Blog with 
+
+# AWS Lightsail
+
 Let's get started with deploying a simple Wordpress application with AWS Lightsail
 
-### What is AWS Lightsail?
+#### What is AWS Lightsail?
 
 /todo: overview of Lightsail components
 
 
-### Example of Lightsail deployments
+#### Example of Lightsail deployments
 
 
-### Who uses AWS Lightsail?
+#### Who uses AWS Lightsail?
 
 
-### Step-by-Step Guide
+#### Step-by-Step Guide
 
